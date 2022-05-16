@@ -15,25 +15,25 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'd6295ca53e', // if api key expire, buy it and put it here?\\
+	'https://zenzapis.xyz': '8440267b4f2f', // if api key expire, buy it and put it here?\\
 }
 
 //customize settings\\
-global.owner = ['918129624395','919037058796']
-global.premium = ['918129624395']
-global.ownernomer = '918129624395'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NexusNwInc.'
-global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
+global.owner = ['94719266120','94729810657']
+global.premium = ['94729810657']
+global.ownernomer = '94729810657'
+global.ownername = 'ᑕYᗷEᖇ ᗯOᑎᘔY'
+global.botname = 'ᑕYᗷEᖇ ᗯOᑎᘔY'
+global.footer = '©𝙿𝚘𝚠𝚎𝚛𝚍 𝙱𝚢 𝙷𝚊𝚌𝚔𝚎𝚛𝚜 𝙸𝚗 𝚂𝚛𝚒 𝙻𝚊𝚗𝚔𝚊'
+global.ig = 'https://github.com/HackerPancha'
+global.region = 'India,Sri Lanka'
+global.sc = 'https://github.com/HackerPancha'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
+global.packname = '𝙷𝙸𝚂𝙻 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻'
+global.author = 'ᑕYᗷEᖇ-ᗯOᑎᘔY'
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
-global.sp = '⭔'
+global.prefa = ['','.'' '']
+global.sp = 'ツ'
 global.mess = {
     success: 'Done ✓',
     admin: 'This Feature Is Only For Admin!',
